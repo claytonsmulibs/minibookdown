@@ -1,3 +1,4 @@
+home-page
 introduction
 what-is-bookdown
 bookdown-examples
